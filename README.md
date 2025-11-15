@@ -6,7 +6,7 @@
 <div align="center">
   <!-- Placeholder logo – replace with your own if desired -->
   <a href="https://github.com/your_username/QSPHAgent">
-    <img src="images/logo.png" alt="QSPHAgent Logo" width="7200" height="400">
+    <img src="images/logo.png" alt="QSPHAgent Logo" width="80" height="80">
   </a>
 
   <h1 align="center">QSPHAgent: Qualitative Structure–Property Hypothesis Agent</h1>
@@ -51,7 +51,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="360" height="220">
+  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="720" height="300">
 </p>
 
 QSPHAgent is a compact, research-oriented framework for generating **qualitative density-of-states (DOS) hypotheses** from crystal structures using a combination of:
