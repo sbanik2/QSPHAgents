@@ -30,8 +30,7 @@
    - [Prerequisites](#prerequisites)
    - [Installation](#installation)
 4. [Usage](#usage)
-5. [Roadmap](#roadmap)
-6. [Contributing](#contributing)
+
 7. [License](#license)
 8. [Contact](#contact)
 9. [Acknowledgments](#acknowledgments)
@@ -209,51 +208,6 @@ You can also loop over the entire test set and compute:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Roadmap
-
-* [x] Basic Materials Project → structured DOS database
-* [x] Structural + DOS feature extraction and description
-* [x] RAG over structurally similar materials
-* [x] Generator–Critic agent loop with LangGraph
-* [x] KNN-based quantitative DOS grounding
-* [x] Simple evaluation: accuracy + semantic similarity
-* [ ] Add support for more complex DOS descriptors (orbital projections, spin)
-* [ ] Extend to additional property channels (e.g., transport, magnetism)
-* [ ] Add CLI entry point
-* [ ] Add richer visualization of agent reasoning traces
-* [ ] Add unit tests and CI workflow
-
-See the [open issues](https://github.com/your_username/QSPHAgent/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## Contributing
-
-Contributions are welcome.
-
-If you have ideas to improve the agents, descriptors, or evaluation:
-
-1. Fork the Project
-2. Create your Feature Branch
-
-   ```sh
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your Changes
-
-   ```sh
-   git commit -m "Add some AmazingFeature"
-   ```
-4. Push to the Branch
-
-   ```sh
-   git push origin feature/AmazingFeature
-   ```
-5. Open a Pull Request
-
-Please also feel free to open issues tagged `"enhancement"` or `"bug"` to discuss changes.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## License
 
@@ -271,35 +225,7 @@ Project Link: [https://github.com/your_username/QSPHAgent](https://github.com/yo
 
 ## Acknowledgments
 
-Some key tools and resources that enabled this project:
 
-* [Materials Project](https://materialsproject.org/)
-* [mp-api](https://github.com/materialsproject/api)
-* [pymatgen](https://pymatgen.org/)
-* [LangGraph](https://github.com/langchain-ai/langgraph)
-* [LangChain](https://github.com/langchain-ai/langchain)
-* [OpenAI](https://platform.openai.com/)
-* [scikit-learn](https://scikit-learn.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [python-dotenv](https://github.com/theskumar/python-dotenv)
-* [PyYAML](https://pyyaml.org/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/your_username/QSPHAgent.svg?style=for-the-badge
-[contributors-url]: https://github.com/your_username/QSPHAgent/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/your_username/QSPHAgent.svg?style=for-the-badge
-[forks-url]: https://github.com/your_username/QSPHAgent/network/members
-[stars-shield]: https://img.shields.io/github/stars/your_username/QSPHAgent.svg?style=for-the-badge
-[stars-url]: https://github.com/your_username/QSPHAgent/stargazers
-[issues-shield]: https://img.shields.io/github/issues/your_username/QSPHAgent.svg?style=for-the-badge
-[issues-url]: https://github.com/your_username/QSPHAgent/issues
-[license-shield]: https://img.shields.io/github/license/your_username/QSPHAgent.svg?style=for-the-badge
-[license-url]: https://github.com/your_username/QSPHAgent/blob/master/LICENSE.txt
-
-
-```
-::contentReference[oaicite:0]{index=0}
-```
