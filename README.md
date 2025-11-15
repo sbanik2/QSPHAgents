@@ -74,12 +74,8 @@ This project is implemented in Python and relies on a small set of core librarie
 * [LangGraph](https://github.com/langchain-ai/langgraph)
 * [LangChain OpenAI](https://github.com/langchain-ai/langchain)
 * [Pydantic](https://docs.pydantic.dev/)
-* [scikit-learn](https://scikit-learn.org/)
-* [Matplotlib](https://matplotlib.org/)
-* [pymatgen](https://pymatgen.org/)
 * [mp-api](https://github.com/materialsproject/api)
-* [python-dotenv](https://github.com/theskumar/python-dotenv)
-* [PyYAML](https://pyyaml.org/)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
