@@ -51,29 +51,30 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="720">
+  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="360" height="220">
 </p>
 
 QSPHAgent is a compact, research-oriented framework for generating **qualitative density-of-states (DOS) hypotheses** from crystal structures using a combination of:
 
 - Materials Project data (CIF + DOS)  
 - Physically motivated structural and DOS descriptors  
-- Retrieval-augmented generation (RAG) over similar structures  
-- A generator–critic **multi-agent loop** (LangGraph)  
-- Simple KNN-based quantitative DOS prediction for grounding  
+- Retrieval-augmented generation (RAG)  
+- A generator–critic **multi-agent loop**  
+- Simple KNN-based quantitative DOS prediction  
 - Accuracy and semantic-similarity evaluation tools
 
 The core idea: given **only the structure** and a **context set of similar materials**, QSPHAgent infers:
 
-- Material classification (metallic / semiconducting / insulating / pseudogapped)  
-- Qualitative DOS shape (e.g., U-shaped, flat, asymmetric)  
+- Material classification  
+- Qualitative DOS shape  
 - Asymmetry around the Fermi level  
-- Positions and relative intensities of dominant valence and conduction peaks  
-- A structured reasoning trace for each prediction  
+- Dominant valence/conduction features  
+- A structured reasoning trace  
 
 The system is notebook-friendly and designed as a starting point for **agentic XAI workflows** in materials science.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 
 
