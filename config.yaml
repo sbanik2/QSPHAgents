@@ -1,0 +1,42 @@
+dos_features:
+  # ---- General processing ----
+  smoothing: 1.0          # gaussian filter width
+
+
+  # ---- Windows ----
+  pseudogap_window: [-0.3, 0.3]
+  conduction_ref_window: [0.5, 2.0]
+
+  asymmetry_left: [-1.0, 0.0]
+  asymmetry_right: [0.0, 1.0]
+
+  valence_peaks_window: [-6.0, 0.0]
+  conduction_peaks_window: [0.0, 6.0]
+
+  # ---- Thresholds ----
+  metal_threshold: 0.05
+  gap_threshold: 0.05
+  sc_threshold: 5.0
+
+  # ---- Superconductivity detection ----
+  sc_gap_span: 0.1
+  sc_peak_threshold: 5.0
+
+  # ---- Gap selection mode ----
+  gap_source: "metadata"   # {"metadata", "dos"}  (currently metadata only)
+
+  # ---- Future-proof placeholders ----
+  # Used if gap_source == "dos"
+  dos_gap_tolerance: 1e-4
+  cbm_vbm_resolution: 0.02
+
+  # ---- Pseudogap robustness ----
+  pseudogap_min_ref: 1.0e-3   # minimum reference DOS to trust pseudogap_score
+
+
+
+database:
+  species: ["Ga","N"]
+  cutoff: 5.0
+  output_file: "materials.json"
+  primitive: true
