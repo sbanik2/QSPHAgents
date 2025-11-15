@@ -13,8 +13,10 @@
 
   <h3 align="center">QSPHAgent: Qualitative Structure–Property Hypothesis Agent</h3>
 
+  <p align="center">
+    A multi-agent framework for qualitative density-of-states (DOS) reasoning with RAG.
+  </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
