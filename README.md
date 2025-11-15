@@ -24,7 +24,6 @@
 
 ## Table of Contents
 
-1. [Authors](#authors)
 2. [About The Project](#about-the-project)
    - [Built With](#built-with)
 3. [Getting Started](#getting-started)
