@@ -20,19 +20,32 @@
 
 - [Suvo Banik](https://github.com/sbanik2)
 - [Ankita Biswas](https://github.com/Anny-tech)
-- [Collin Kovacs](https://github.com/ckovacs2)
+- [Huanhuan Zhao](https://github.com/HuanhuanZhao08)
+- [Collin Kovacs ](https://github.com/ckovacs2)
 
 ## Table of Contents
 
-2. [About The Project](#about-the-project)
-   - [Built With](#built-with)
-3. [Getting Started](#getting-started)
-   - [Prerequisites](#prerequisites)
-   - [Installation](#installation)
+2. <details>
+     <summary><a href="#about-the-project">About The Project</a></summary>
+     <ul>
+       <li><a href="#built-with">Built With</a></li>
+     </ul>
+   </details>
+
+3. <details>
+     <summary><a href="#getting-started">Getting Started</a></summary>
+     <ul>
+       <li><a href="#prerequisites">Prerequisites</a></li>
+       <li><a href="#installation">Installation</a></li>
+     </ul>
+   </details>
+
 4. [Usage](#usage)
 
 7. [License](#license)
+
 8. [Contact](#contact)
+
 9. [Acknowledgments](#acknowledgments)
 
 
