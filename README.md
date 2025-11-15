@@ -13,18 +13,6 @@
 
   <h3 align="center">QSPHAgent: Qualitative Structure–Property Hypothesis Agent</h3>
 
-  <p align="center">
-    A multi-agent framework for qualitative density-of-states (DOS) reasoning with RAG.
-    <br />
-    <a href="https://github.com/sbanik2/QSPHAgent"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/sbanik2/QSPHAgent">View Demo</a>
-    ·
-    <a href="https://github.com/sbanik2/QSPHAgent/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/sbanik2/QSPHAgent/issues">Request Feature</a>
-  </p>
 </div>
 
 
