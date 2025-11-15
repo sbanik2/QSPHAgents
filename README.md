@@ -8,7 +8,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 
 
@@ -331,9 +331,7 @@ Some key tools and resources that enabled this project:
 [issues-url]: https://github.com/your_username/QSPHAgent/issues
 [license-shield]: https://img.shields.io/github/license/your_username/QSPHAgent.svg?style=for-the-badge
 [license-url]: https://github.com/your_username/QSPHAgent/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/your_linkedin
-[product-screenshot]: images/screenshot.png
+
 
 ```
 ::contentReference[oaicite:0]{index=0}
