@@ -44,8 +44,6 @@
 
 7. [License](#license)
 
-8. [Contact](#contact)
-
 9. [Acknowledgments](#acknowledgments)
 
 
@@ -228,17 +226,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Contact
-
-Your Name (e.g., **Suvo Banik**) – [your_email@example.com](mailto:your_email@example.com)
-
-Project Link: [https://github.com/your_username/QSPHAgent](https://github.com/your_username/QSPHAgent)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Acknowledgments
-
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
