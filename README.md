@@ -138,14 +138,24 @@ pip install \
 3. Create or edit `config.yaml` to control database generation and DOS settings:
 
    ```yaml
-   dos_features:
-     smoothing: 1.0
+    dos_features:
+      smoothing: 1.0                     # Gaussian DOS smoothing
+      pseudogap_window: [-0.3, 0.3]      # EF window for pseudogap scoring
+      asymmetry_left: [-1.0, 0.0]        # Valence-side asymmetry range
+      asymmetry_right: [0.0, 1.0]        # Conduction-side asymmetry range
+      valence_peaks_window: [-6.0, 0.0]  # Valence peaks search range
+      conduction_peaks_window: [0.0, 6.0]# Conduction peaks search range
+      metal_threshold: 0.05              # N(EF) threshold for metallic
+      gap_threshold: 0.05                # Band gap threshold for insulating
+      gap_source: "metadata"             # {"metadata", "dos"}
+      pseudogap_min_ref: 1e-3            # Min DOS for reliable pseudogap score
+    
+    database:
+      cutoff: 5.0                        # Neighbor cutoff (Å)
+      output_file: "materials.json"      # Output database file
+      primitive: true                    # Use primitive structure
+      species: ["Si", "B", "N"]          # Target chemical system
 
-   database:
-     cutoff: 5.0
-     output_file: "materials.json"
-     primitive: true
-     species: ["Si", "B", "N"]   # example; can be ["Si"], ["B","N"], ["Ga","N"], etc.
    ```
 
 4. (Optional) Install the project as a local package:
