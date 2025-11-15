@@ -1,4 +1,3 @@
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
@@ -11,7 +10,7 @@
     <img src="images/logo.png" alt="QSPHAgent Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">QSPHAgent: Qualitative Structure–Property Hypothesis Agent</h3>
+  <h1 align="center">QSPHAgent: Qualitative Structure–Property Hypothesis Agent</h1>
 
   <p align="center">
     A multi-agent framework for qualitative density-of-states (DOS) reasoning with RAG.
@@ -19,10 +18,19 @@
 </div>
 
 
-<!-- TABLE OF CONTENTS -->
+## Authors
+
+- [Suvo Banik](https://github.com/sbanik2)
+- [Ankita Biswas](https://github.com/Anny-tech)
+- [Collin Kovacs](https://github.com/ckovacs2)
+
+
+## Table of Contents
+
 <details>
-  <summary>Table of Contents</summary>
+  <summary><strong>Expand / Collapse</strong></summary>
   <ol>
+    <li><a href="#authors">Authors</a></li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
@@ -44,8 +52,6 @@
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
-
-
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
