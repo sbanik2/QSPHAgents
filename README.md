@@ -51,7 +51,7 @@
 ## About The Project
 
 <p align="center">
-  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="720" height="300">
+  <img src="images/workflow.png" alt="QSPHAgent Workflow Placeholder" width="600" height="400">
 </p>
 
 QSPHAgent is a compact, research-oriented framework for generating **qualitative density-of-states (DOS) hypotheses** from crystal structures using a combination of:
